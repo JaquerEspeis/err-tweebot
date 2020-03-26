@@ -1,0 +1,9 @@
+[Core]
+Name = TweeBot
+Module = tweebot
+
+[Python]
+Version = 2+
+
+[Documentation]
+Description = Updates twitter status
