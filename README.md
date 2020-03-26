@@ -5,7 +5,7 @@ Errbot plugin that updates Twitter status
 
 ## Install
 
-`!repos install https://github.com/jamescr/err-tweebot`
+`!repos install https://github.com/JaquerEspeis/err-tweebot`
 
 ## Configuration
 
@@ -20,7 +20,5 @@ Go to https://developer.twitter.com/en/apps, register an App and you'll get the 
 ## Usage
 
 ~~~
-!tweet Hello, World! This tweet was send from TweeBot (errbot plugin) available at https://github.com/jamescr/err-tweebot
+!tweet Hello, World! This tweet was send from TweeBot (errbot plugin) available at https://github.com/JaquerEspeis/err-tweebot
 ~~~
-
-
